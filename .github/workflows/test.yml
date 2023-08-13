@@ -1,29 +1,14 @@
-name: Java CI
+name: New Test Workflow
 
 on:
   pull_request:
-    branches:
-      - main
 
 jobs:
-  build:
-    runs-on: windows-latest
-
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Java
-        uses: actions/setup-java@v2
+        uses: mshick/add-pr-comment@v2
         with:
-          java-version: '17'
-
-      - name: Build with Gradle
-        run: gradlew.bat build
-
-      - name: Run tests
-        run: gradlew.bat test
-
-      - name: Display success message
-        if: success()
-        run: echo "Successful operation"
+          message: I am a successful request!!!
