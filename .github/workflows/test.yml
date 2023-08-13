@@ -9,6 +9,9 @@ jobs:
     permissions:
       pull-requests: write
     steps:
+      - uses: actions/checkout@v2
+
+      - name: Add PR Comment
         uses: mshick/add-pr-comment@v2
         with:
           message: I am a successful request!!!
