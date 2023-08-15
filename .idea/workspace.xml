@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64decb59-b657-4ff0-904a-74809ac7d793" name="Changes" comment="configuration file">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="64decb59-b657-4ff0-904a-74809ac7d793" name="Changes" comment="my message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\Module16Dev\.github\workflows" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="org.example" />
@@ -64,7 +67,56 @@
       <option name="project" value="LOCAL" />
       <updated>1691947945508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update message">
+      <created>1691948345855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691948345855</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update message1">
+      <created>1691948402386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691948402387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new workflow">
+      <created>1691950655169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691950655169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update workflow">
+      <created>1691950808079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691950808079</updated>
+    </task>
+    <task id="LOCAL-00006" summary="delete workflow">
+      <created>1691951114070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691951114070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="my workflow">
+      <created>1691951170932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691951170932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="my message">
+      <created>1691951302024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691951302024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +130,14 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="bobrovska" />
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
                       </list>
                     </value>
                   </entry>
@@ -89,9 +148,52 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="configuration file" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuration file" />
+    <MESSAGE value="update message" />
+    <MESSAGE value="update message1" />
+    <MESSAGE value="new workflow" />
+    <MESSAGE value="update workflow" />
+    <MESSAGE value="delete workflow" />
+    <MESSAGE value="my workflow" />
+    <MESSAGE value="my message" />
+    <option name="LAST_COMMIT_MESSAGE" value="my message" />
   </component>
 </project>
